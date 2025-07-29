@@ -1,0 +1,22 @@
+#!/usr/bin/plymouth
+# Plymouth theme script for WhirlyOS
+
+theme_image = "whirlyos.png"
+background_image = ""
+message_font = "WenQuanYi Zen Hei 20"
+message_color = "0xFFFFFF"
+progress_bar_height = 8
+progress_bar_width = 300
+progress_bar_corner_radius = 4
+indicator_size = 32
+indicator_animation = [
+    "spinner0.png", "spinner1.png", "spinner2.png", "spinner3.png",
+    "spinner4.png", "spinner5.png", "spinner6.png", "spinner7.png"
+]
+on_event("update") {
+    message_node.text = message
+    progress_bar_node.percent = progress
+}
+on_event("quit") {
+    widget.hide_all()
+}

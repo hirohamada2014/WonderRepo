@@ -1,0 +1,14 @@
+<image schemaversion="7.4" name="whirlyos">
+  <description type="system">
+    <author>Gabriel</author>
+    <specification>WhirlyOS ISO</specification>
+  </description>
+  <preferences>
+    <type image="iso"/>
+    <version>1.0</version>
+  </preferences>
+  <packages type="image">
+    <package name="bash"/>
+    <package name="coreutils"/>
+  </packages>
+</image>

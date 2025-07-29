@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Screen Timer
+Comment=Set a daily screen time limit; locks until morning
+Icon=utilities-terminal
+Exec=/usr/local/bin/screen-timer.sh
+Terminal=true
+Categories=Education;Utility;

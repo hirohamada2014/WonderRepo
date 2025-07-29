@@ -1,0 +1,11 @@
+[Unit]
+Description=NightShield Boot Lock
+DefaultDependencies=no
+Before=sysinit.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/nightshield-boot.sh
+
+[Install]
+WantedBy=basic.target

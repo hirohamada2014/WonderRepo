@@ -1,0 +1,9 @@
+<services>
+  <service name="kiwi_metainfo_helper"/>
+  <service name="create_tar"/>
+  <service name="extract_file">
+  <service name="kiwi_metainfo_helper"/>
+
+    <param name="files">config.kiwi</param>
+  </service>
+</services>
