@@ -1,20 +1,20 @@
 # WonderRepo
 
-A curated repository for building **WhirlyOS GNOME Edition** with the Edubuntu suite.
+A curated repository for building **WhirlyOS Linux** with the Edubuntu suite.
 
-WhirlyOS wraps a Linux base in a playful, ADHD-aware shell—complete with simple interfaces, mascot guidance, and seamless access to browser-based learning tools across desktop and embedded platforms.
+WhirlyOS wraps a Linux base in a playful, ADHD-aware shell—complete with simple interfaces, and seamless access to browser-based learning tools across desktop and embedded platforms. It has the features of the screen time limit to keep you free from distraction and be healthy.
 
 ---
 
 ## Description
 
-WhirlyOS GNOME Edition fuses the familiarity of Ubuntu’s educational apps with a lightweight, mascot-driven environment. It comes preconfigured with:
+WhirlyOS fuses the familiarity of Ubuntu’s educational apps with a lightweight and perfect environment. It comes preconfigured with:
 
 - A GNOME desktop powered by openSUSE Leap 15.4  
 - Edubuntu-style educational and creative applications  
 - Epiphany as the default, distraction-free browser  
 - Optional support for Firefox and Chromium  
-- A charming Plymouth theme featuring WhirlyOS mascots  
+- Screen Time features to keep students and coders out of distraction, off-topic, and unmindfulness. This helps the child to be healthy and be genius.
 
 ---
 
