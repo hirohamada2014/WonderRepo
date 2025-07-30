@@ -24,9 +24,7 @@ WhirlyOS fuses the familiarity of Ubuntu’s educational apps with a lightweight
 - Preinstalled learning apps: GCompris, Scratch, TuxMath, TuxPaint  
 - Creative tools: GIMP, Mu Editor, MuseScore, VLC  
 - Browser integrations for Google Classroom, Docs, Drive, YouTube Kids  
-- Mascot-led focus helpers (Pomodoro timers, break animations)  
-- Lightweight Plymouth spinner and custom wallpaper  
-- Open source MIT License  
+- Screen Time features  
 
 ---
 
@@ -37,22 +35,21 @@ WhirlyOS fuses the familiarity of Ubuntu’s educational apps with a lightweight
 - KIWI NG toolchain installed  
 - Internet access for repositories and packages  
 
-### Windows (via WSL2)  
-- Windows 10/11 with WSL2 enabled  
-- Ubuntu or openSUSE distribution in WSL2  
-- Install KIWI NG inside WSL2 and ensure WSL filesystem has ≥ 20 GB free  
+### Windows
+- Windows 10/11 (any version works well as long as you have 512 MB RAM and 8 GB storage)
+- Bootable USB drive 
+- Imaging software (e.g. Rufus, BalenaEtcher)
 
 ### Raspberry Pi (ARM)  
-- Raspberry Pi 4 (or later) running Raspberry Pi OS or openSUSE ARM  
-- KIWI NG cross-build dependencies (`qemu-user-static`, `debootstrap`, etc.)  
-- Adjust `config/config.kiwi` to target `aarch64` architecture  
-- ≥ 16 GB micro-SD card  
+- Raspberry Pi Zero 2 w or later
+- a microSD card  
+- Raspberry Pi Imager
 
 ---
 
 ## Building the ISO or Image
 
-### On Linux / WSL2
+### On Windows
 
 ```bash
 git clone https://github.com/your-org/WonderRepo.git
