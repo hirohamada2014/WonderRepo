@@ -8,12 +8,14 @@ WhirlyOS wraps a Linux base in a playful, ADHD-aware shell—complete with simpl
 
 ## Desktop Envirnoments
 
--  **SoulFrame**, GNOME desktop inspired by Soul (2020)
--  **MeiLite**, Xfce desktop inspired by Turning Red (2022)
--  **ElementaDesk**, KDE Plasma desktop inspired by Elemental (2023)
--  **NotebookOS**, Openbox desktop inspired by Luca (2021)
--  **QuestLand**, Budgie desktop inspired by Onward (2020)
--  **IntellSpace**, LXQt desktop inspired by WALL*E (2008)
+| **Edition Name**   | **Desktop Environment** | **Inspired By**     | **Notes**                                      | **Specs**                          |
+|--------------------|--------------------------|---------------------|-----------------------------------------------|------------------------------------|
+| **SoulFrame**      | GNOME                    | *Soul*              | Dreamlike UI, celestial theme, Great Before    | 2 GB RAM, 20 GB disk, GPU optional |
+| **MeiLite**        | XFCE                     | *Turning Red*       | Fast, expressive, lightweight                  | 1 GB RAM, 10 GB disk               |
+| **ElementalDesk**  | KDE Plasma               | *Elemental*         | Vibrant, customizable, elemental UI            | 4 GB RAM, 25 GB disk               |
+| **NotebookOS**     | Openbox                  | *Luca*              | Minimal, seaside calm, fast boot               | 512 MB RAM, 5 GB disk              |
+| **QuestLand**      | Budgie                   | *Onward*            | Adventurous, magical, modern desktop           | 2 GB RAM, 15 GB disk               |
+| **IntellSpace**    | LXQt                     | *Wall·E*            | Futuristic, efficient, low-resource            | 1 GB RAM, 8 GB disk                |
   
 ## Description
 
