@@ -29,14 +29,14 @@ It is not an official Disney or Pixar tagline and is safe to use.
 
 ## Desktop Envirnoments
 
-| **Edition Name**   | **Desktop Environment** | **Inspired By**     | **Notes**                                      | **Specs**                          |
-|--------------------|--------------------------|---------------------|-----------------------------------------------|------------------------------------|
-| **SoulFrame**      | GNOME                    | *Soul*              | Dreamlike UI, celestial theme, Great Before    | 2 GB RAM, 20 GB disk, GPU optional |
-| **MeiLite**        | XFCE                     | *Turning Red*       | Fast, expressive, lightweight                  | 1 GB RAM, 10 GB disk               |
-| **ElementalDesk**  | KDE Plasma               | *Elemental*         | Vibrant, customizable, elemental UI            | 4 GB RAM, 25 GB disk               |
-| **NotebookOS**     | Openbox                  | *Luca*              | Minimal, seaside calm, fast boot               | 512 MB RAM, 5 GB disk              |
-| **QuestLand**      | Budgie                   | *Onward*            | Adventurous, magical, modern desktop           | 2 GB RAM, 15 GB disk               |
-| **IntellSpace**    | LXQt                     | *Wall·E*            | Futuristic, efficient, low-resource            | 1 GB RAM, 8 GB disk                |
+| **Edition Name**   | **Desktop Environment** | **Inspired By**     | **Notes**                                      | **Reasons why it's called** |**Specs**                          |
+|--------------------|--------------------------|---------------------|-----------------------------------------------| ------------------------------------------|------------------------------------|
+| **SoulFrame**      | GNOME                    | *Soul*              | Dreamlike UI, celestial theme, Great Before    | The dream interface feels like perfect| 2 GB RAM, 20 GB disk, GPU optional |
+| **MeiLite**        | XFCE                     | *Turning Red*       | Fast, expressive, lightweight                  | Since Turning Red is set in 2002, Xfce desktop is used in order to give the olden times | 1 GB RAM, 10 GB disk               |
+| **ElementalDesk**  | KDE Plasma               | *Elemental*         | Vibrant, customizable, elemental UI            | The classical elements (not the elements of the periodic table) fit perfectly in Plasma | 4 GB RAM, 25 GB disk               |
+| **NotebookOS**     | Openbox                  | *Luca*              | Minimal, seaside calm, fast boot               | Since, older time periods gave this perfect interface of the old BunsenLabs into WhirlyOS to the run | 512 MB RAM, 5 GB disk              |
+| **QuestLand**      | Budgie                   | *Onward*            | Adventurous, magical, modern desktop           | For fantasy fans, this is the perfect desktop for them | 2 GB RAM, 15 GB disk               |
+| **IntellSpace**    | LXQt                     | *Wall·E*            | Futuristic, efficient, low-resource            | Since the movie is released in 2008, LXQt gives teh Windows 7 interface back to life | 1 GB RAM, 8 GB disk                |
   
 ## 🎯 Goals
 
