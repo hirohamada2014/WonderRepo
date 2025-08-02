@@ -6,11 +6,20 @@ WhirlyOS wraps a Linux base in a playful, ADHD-aware shell—complete with simpl
 
 ---
 
+## Desktop Envirnoments
+
+-  **SoulFrame**, GNOME desktop inspired by Soul (2020)
+-  **MeiLite**, Xfce desktop inspired by Turning Red (2022)
+-  **ElementaDesk**, KDE Plasma desktop inspired by Elemental (2023)
+-  **NotebookOS**, Openbox desktop inspired by Luca (2021)
+-  **QuestLand**, Budgie desktop inspired by Onward (2020)
+-  **IntellSpace**, LXQt desktop inspired by WALL*E (2008)
+  
 ## Description
 
 WhirlyOS fuses the familiarity of Ubuntu’s educational apps with a lightweight and perfect environment. It comes preconfigured with:
 
-- A GNOME desktop powered by openSUSE Leap 15.4  
+- Disney and Pixar-inspired desktop envirnoments powered by Debian
 - Edubuntu-style educational and creative applications  
 - Epiphany as the default, distraction-free browser  
 - Optional support for Firefox and Chromium  
