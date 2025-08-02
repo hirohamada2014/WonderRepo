@@ -1,10 +1,31 @@
 # WonderRepo
 
-A curated repository for building **WhirlyOS Linux** with the Edubuntu suite.
+A curated repository for building **WhirlyOS Linux**, based on Debian.
 
-WhirlyOS wraps a Linux base in a playful, ADHD-aware shell—complete with simple interfaces, and seamless access to browser-based learning tools across desktop and embedded platforms. It has the features of the screen time limit to keep you free from distraction and be healthy.
+WhirlyOS wraps a Linux base in a playful, ADHD-aware shell—complete with simple interfaces, and seamless access to browser-based learning tools across desktop and embedded platforms. It has the features of the screen time limit to keep you free from distraction and be healthy. 
 
 ---
+
+## 🐧 Base Distribution
+
+WhirlyOS is based on **Debian Stable**, ensuring:
+
+- 🔒 Rock-solid reliability
+- 📦 Access to thousands of packages via APT
+- 🛠️ Easy customization and community support
+- 🧩 Compatibility with most hardware
+
+---
+
+## 🎬 Motto
+
+> **Find your spark. Find your way.**
+
+Inspired by *Soul* (2020), this motto reflects WhirlyOS’s mission to help users discover their passion through technology.  
+It is not an official Disney or Pixar tagline and is safe to use.
+
+---
+
 
 ## Desktop Envirnoments
 
@@ -17,17 +38,17 @@ WhirlyOS wraps a Linux base in a playful, ADHD-aware shell—complete with simpl
 | **QuestLand**      | Budgie                   | *Onward*            | Adventurous, magical, modern desktop           | 2 GB RAM, 15 GB disk               |
 | **IntellSpace**    | LXQt                     | *Wall·E*            | Futuristic, efficient, low-resource            | 1 GB RAM, 8 GB disk                |
   
-## Description
+## 🎯 Goals
 
-WhirlyOS fuses the familiarity of Ubuntu’s educational apps with a lightweight and perfect environment. It comes preconfigured with:
-
-- Disney and Pixar-inspired desktop envirnoments powered by Debian
-- Edubuntu-style educational and creative applications  
-- Epiphany as the default, distraction-free browser  
-- Optional support for Firefox and Chromium  
-- Screen Time features to keep students and coders out of distraction, off-topic, and unmindfulness. This helps the child to be healthy and be genius.
+- 🧠 **Inspire creativity** through themed desktop environments based on beloved animated films
+- 👨‍👩‍👧‍👦 **Support families** with built-in parental controls and screen time tools
+- 💡 **Make computing magical** with custom UI elements, mascots, and cinematic flair
+- 🐧 **Revive old hardware** with lightweight editions that run smoothly on low specs
+- 🎨 **Celebrate diversity** in design, emotion, and user experience—just like Pixar’s characters
+- 👨‍🎓 **For homeschooling, private and public schools** by giving educational tools (not in minimal) for help (without artificial intelligence)
 
 ---
+
 
 ## Features
 
@@ -36,6 +57,19 @@ WhirlyOS fuses the familiarity of Ubuntu’s educational apps with a lightweight
 - Creative tools: GIMP, Mu Editor, MuseScore, VLC  
 - Browser integrations for Google Classroom, Docs, Drive, YouTube Kids  
 - Screen Time features  
+
+---
+## 📅 WhirlyOS Development Timeline (2025)
+
+WhirlyOS is the latest chapter in a multi-year journey of OS experimentation and creativity. Here's how it evolved:
+
+| **Month** | **Phase** | **Platform & Tools** | **Key Developments** |
+|-----------|-----------|----------------------|-----------------------|
+| **March 2025** | 🐼 PandaOS Revival | Visual Basic 6 → C# with COSMOS | - Revisited early PandaOS concepts<br>- Migrated legacy VB6 code to C#<br>- Experimented with COSMOS kernel for custom bootloader |
+| **April 2025** | 🎓 PixOS Educational | SUSE Studio Express + OBS | - Built PixOS for schools and learning labs<br>- Used SUSE Studio for rapid prototyping<br>- Published builds via Open Build Service |
+| **May 2025** | 🌀 WhirlyOS Foundation | Debian Stable + GNOME | - Chose Debian for long-term stability<br>- Created SoulFrame edition (GNOME)<br>- Developed core scripts: `screen_time.sh`, `nightshield.sh` |
+| **June 2025** | 🎭 WhirlyOS Editions | XFCE, KDE, Budgie | - Launched themed editions: MeiLite, ElementalDesk, QuestLand<br>- Integrated cinematic branding and mascots<br>- Built ISOs using Cubic and Linux Live Kit |
+| **July 2025** | 🌐 Community & Expansion | Web + Feedback Loop | - Published WhirlyOS website and docs<br>- Engaged early users for feedback<br>- Planned WhirlyStore, WhirlyKids, and cloud sync features |
 
 ---
 
