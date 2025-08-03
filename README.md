@@ -7,6 +7,7 @@ WhirlyOS wraps a Linux base in a playful, ADHD-aware shell—complete with simpl
 > **Warning:** THe work on WhirlyOS is still ongoing, so please stay tuned for the first release of v1.0.
 > There are problems while I'm trying to build the disk image in GitHub Codespaces, but
 > don't worry, I'm trying to do my best.
+
 The Linux distro will come after two weeks of work :)
 ---
 
