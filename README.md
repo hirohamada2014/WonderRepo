@@ -46,6 +46,7 @@ It is not an official Disney or Pixar tagline and is safe to use.
 - 🐧 **Revive old hardware** with lightweight editions that run smoothly on low specs
 - 🎨 **Celebrate diversity** in design, emotion, and user experience—just like Pixar’s characters
 - 👨‍🎓 **For homeschooling, private and public schools** by giving educational tools (not in minimal) for help (without artificial intelligence)
+  **Notes:** If anyone prefer doing homework (e.g. math) on physical notebooks, don't worry; you can use WhirlyOS for coding, or anything you can do in your computer as a technicial, or as exploring and surfing (with restrictions.)
 
 ---
 
