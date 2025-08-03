@@ -4,11 +4,10 @@ A curated repository for building **WhirlyOS Linux**, based on Debian.
 
 WhirlyOS wraps a Linux base in a playful, ADHD-aware shell—complete with simple interfaces, and seamless access to browser-based learning tools across desktop and embedded platforms. It has the features of the screen time limit to keep you free from distraction and be healthy. 
 
-> **Warning:** THe work on WhirlyOS is still ongoing, so please stay tuned for the first release of v1.0.
-> There are problems while I'm trying to build the disk image in GitHub Codespaces, but
-> don't worry, I'm trying to do my best.
+> **Warning:** The work on WhirlyOS is still ongoing, so please stay tuned for the first release of v1.0.
 
-The Linux distro will come after two weeks of work :)
+There are problems while I'm trying to build the disk image in GitHub Codespaces, but don't worry, I'm trying to do my best.
+
 ---
 
 ## 🐧 Base Distribution
@@ -75,7 +74,7 @@ WhirlyOS is the latest chapter in a multi-year journey of OS experimentation and
 | **April 2025** | 🎓 PixOS Educational | SUSE Studio Express + OBS | - Built PixOS for schools and learning labs<br>- Used SUSE Studio for rapid prototyping<br>- Published builds via Open Build Service |
 | **May 2025** | 🌀 WhirlyOS Foundation | Debian Stable + GNOME | - Chose Debian for long-term stability<br>- Created SoulFrame edition (GNOME)<br>- Developed core scripts: `screen_time.sh`, `nightshield.sh` |
 | **June 2025** | 🎭 WhirlyOS Editions | XFCE, KDE, Budgie | - Launched themed editions: MeiLite, ElementalDesk, QuestLand<br>- Integrated cinematic branding and mascots<br>- Built ISOs using Cubic and Linux Live Kit |
-| **July 2025** | 🌐 Community & Expansion | Web + Feedback Loop | - Published WhirlyOS website and docs<br>- Engaged early users for feedback<br>- Planned WhirlyStore, WhirlyKids, and cloud sync features |
+| **July 2025** | Ongoing work | Disk image builds | - **Since WhirlyOS work is still in process in the last 5 or 6 weeks, don't worry for that; it will come soon.** |
 
 ---
 
